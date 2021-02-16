@@ -35,7 +35,7 @@ export const IconPodiumSharp: React.FC<IconPodiumSharpProps> = ({ size = '24px',
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M160 32h192v448H160zm224 160h112v288H384zM16 128h112v352H16z"/>
+          <path d="M160 32h192v448H160zm224 160h112v288H384zM16 128h112v352H16z" fill="currentColor"/>
         </svg>
       </div>
     </div>

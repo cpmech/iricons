@@ -35,7 +35,7 @@ export const IconJournalSharp: React.FC<IconJournalSharpProps> = ({ size = '24px
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M290 32H104a24 24 0 00-24 24v400a24 24 0 0024 24h186zm118 0h-58v448h58a24 24 0 0024-24V56a24 24 0 00-24-24z"/>
+          <path d="M290 32H104a24 24 0 00-24 24v400a24 24 0 0024 24h186zm118 0h-58v448h58a24 24 0 0024-24V56a24 24 0 00-24-24z" fill="currentColor"/>
         </svg>
       </div>
     </div>

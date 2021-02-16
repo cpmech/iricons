@@ -35,7 +35,7 @@ export const IconCaretForwardSharp: React.FC<IconCaretForwardSharpProps> = ({ si
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M144 448l224-192L144 64v384z"/>
+          <path d="M144 448l224-192L144 64v384z" fill="currentColor"/>
         </svg>
       </div>
     </div>

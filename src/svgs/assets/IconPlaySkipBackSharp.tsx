@@ -35,7 +35,7 @@ export const IconPlaySkipBackSharp: React.FC<IconPlaySkipBackSharpProps> = ({ si
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M143.47 64v163.52L416 64v384L143.47 284.48V448H96V64h47.47z"/>
+          <path d="M143.47 64v163.52L416 64v384L143.47 284.48V448H96V64h47.47z" fill="currentColor"/>
         </svg>
       </div>
     </div>

@@ -35,7 +35,7 @@ export const IconLogoStencil: React.FC<IconLogoStencilProps> = ({ size = '24px',
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M188.8 334.07h197.33L279.47 448H83.2zM512 199H106.61L0 313h405.39zM232.2 64h196.6L322.62 177.93H125.87z"/>
+          <path d="M188.8 334.07h197.33L279.47 448H83.2zM512 199H106.61L0 313h405.39zM232.2 64h196.6L322.62 177.93H125.87z" fill="currentColor"/>
         </svg>
       </div>
     </div>

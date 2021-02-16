@@ -35,7 +35,7 @@ export const IconCellularSharp: React.FC<IconCellularSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M496 432h-96V80h96zm-128 0h-96V160h96zm-128 0h-96V224h96zm-128 0H16V288h96z"/>
+          <path d="M496 432h-96V80h96zm-128 0h-96V160h96zm-128 0h-96V224h96zm-128 0H16V288h96z" fill="currentColor"/>
         </svg>
       </div>
     </div>

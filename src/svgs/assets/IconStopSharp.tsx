@@ -35,7 +35,7 @@ export const IconStopSharp: React.FC<IconStopSharpProps> = ({ size = '24px', sty
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M80 80h352v352H80z"/>
+          <path d="M80 80h352v352H80z" fill="currentColor"/>
         </svg>
       </div>
     </div>

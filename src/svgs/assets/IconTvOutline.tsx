@@ -35,7 +35,7 @@ export const IconTvOutline: React.FC<IconTvOutlineProps> = ({ size = '24px', sty
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <rect x="32" y="96" width="448" height="272" rx="32.14" ry="32.14" fill="none" stroke="currentColor" strokeLinejoin="round" strokeWidth="32"/><path stroke="currentColor" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="32" d="M128 416h256"/>
+          <rect x="32" y="96" width="448" height="272" rx="32.14" ry="32.14" fill="none" stroke="currentColor" strokeLinejoin="round" strokeWidth="32"/><path stroke="currentColor" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="32" d="M128 416h256" fill="currentColor"/>
         </svg>
       </div>
     </div>

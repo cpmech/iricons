@@ -35,7 +35,7 @@ export const IconTriangleSharp: React.FC<IconTriangleSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M256 32L20 464h472L256 32z"/>
+          <path d="M256 32L20 464h472L256 32z" fill="currentColor"/>
         </svg>
       </div>
     </div>

@@ -35,7 +35,7 @@ export const IconGridSharp: React.FC<IconGridSharpProps> = ({ size = '24px', sty
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M240 240H32V32h208zm240 0H272V32h208zM240 480H32V272h208zm240 0H272V272h208z"/>
+          <path d="M240 240H32V32h208zm240 0H272V32h208zM240 480H32V272h208zm240 0H272V272h208z" fill="currentColor"/>
         </svg>
       </div>
     </div>

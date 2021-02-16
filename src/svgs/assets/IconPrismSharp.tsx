@@ -35,7 +35,7 @@ export const IconPrismSharp: React.FC<IconPrismSharpProps> = ({ size = '24px', s
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M256 16L16 352l240 144 240-144zm-20 96.82v324.53L73.73 340z"/>
+          <path d="M256 16L16 352l240 144 240-144zm-20 96.82v324.53L73.73 340z" fill="currentColor"/>
         </svg>
       </div>
     </div>

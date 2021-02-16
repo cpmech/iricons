@@ -35,7 +35,7 @@ export const IconPlayForwardSharp: React.FC<IconPlayForwardSharpProps> = ({ size
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M16 400l240-144L16 112v288zm240 0l240-144-240-144v288z"/>
+          <path d="M16 400l240-144L16 112v288zm240 0l240-144-240-144v288z" fill="currentColor"/>
         </svg>
       </div>
     </div>

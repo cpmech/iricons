@@ -35,7 +35,7 @@ export const IconLogoVercel: React.FC<IconLogoVercelProps> = ({ size = '24px', s
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path fillRule="evenodd" d="M256 48l240 416H16z"/>
+          <path fillRule="evenodd" d="M256 48l240 416H16z" fill="currentColor"/>
         </svg>
       </div>
     </div>

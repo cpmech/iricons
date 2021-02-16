@@ -35,7 +35,7 @@ export const IconCheckboxSharp: React.FC<IconCheckboxSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M48 48v416h416V48zm170 312.38l-80.6-89.57 23.79-21.41 56 62.22L350 153.46 374.54 174z"/>
+          <path d="M48 48v416h416V48zm170 312.38l-80.6-89.57 23.79-21.41 56 62.22L350 153.46 374.54 174z" fill="currentColor"/>
         </svg>
       </div>
     </div>

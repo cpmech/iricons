@@ -35,7 +35,7 @@ export const IconTriangle: React.FC<IconTriangleProps> = ({ size = '24px', style
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M464 464H48a16 16 0 01-14.07-23.62l208-384a16 16 0 0128.14 0l208 384A16 16 0 01464 464z"/>
+          <path d="M464 464H48a16 16 0 01-14.07-23.62l208-384a16 16 0 0128.14 0l208 384A16 16 0 01464 464z" fill="currentColor"/>
         </svg>
       </div>
     </div>

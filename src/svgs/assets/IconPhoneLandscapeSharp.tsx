@@ -35,7 +35,7 @@ export const IconPhoneLandscapeSharp: React.FC<IconPhoneLandscapeSharpProps> = (
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M0 130v252a18 18 0 0018 18h476a18 18 0 0018-18V130a18 18 0 00-18-18H18a18 18 0 00-18 18zm448 234H64V148h384z"/>
+          <path d="M0 130v252a18 18 0 0018 18h476a18 18 0 0018-18V130a18 18 0 00-18-18H18a18 18 0 00-18 18zm448 234H64V148h384z" fill="currentColor"/>
         </svg>
       </div>
     </div>

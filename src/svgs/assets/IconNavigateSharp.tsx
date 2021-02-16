@@ -35,7 +35,7 @@ export const IconNavigateSharp: React.FC<IconNavigateSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M480 32L32 240h240v240L480 32z"/>
+          <path d="M480 32L32 240h240v240L480 32z" fill="currentColor"/>
         </svg>
       </div>
     </div>

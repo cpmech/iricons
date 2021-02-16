@@ -35,7 +35,7 @@ export const IconCaretDownSharp: React.FC<IconCaretDownSharpProps> = ({ size = '
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M64 144l192 224 192-224H64z"/>
+          <path d="M64 144l192 224 192-224H64z" fill="currentColor"/>
         </svg>
       </div>
     </div>

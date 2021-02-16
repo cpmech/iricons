@@ -35,7 +35,7 @@ export const IconPlaySharp: React.FC<IconPlaySharpProps> = ({ size = '24px', sty
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M96 448l320-192L96 64v384z"/>
+          <path d="M96 448l320-192L96 64v384z" fill="currentColor"/>
         </svg>
       </div>
     </div>

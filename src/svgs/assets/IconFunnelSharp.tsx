@@ -35,7 +35,7 @@ export const IconFunnelSharp: React.FC<IconFunnelSharpProps> = ({ size = '24px',
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M0 48l192 240v128l128 48V288L512 48H0z"/>
+          <path d="M0 48l192 240v128l128 48V288L512 48H0z" fill="currentColor"/>
         </svg>
       </div>
     </div>

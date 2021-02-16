@@ -35,7 +35,7 @@ export const IconFlashSharp: React.FC<IconFlashSharpProps> = ({ size = '24px', s
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M432 208H288l32-192L80 304h144l-32 192z"/>
+          <path d="M432 208H288l32-192L80 304h144l-32 192z" fill="currentColor"/>
         </svg>
       </div>
     </div>

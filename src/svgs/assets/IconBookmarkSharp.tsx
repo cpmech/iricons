@@ -35,7 +35,7 @@ export const IconBookmarkSharp: React.FC<IconBookmarkSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M416 480L256 357.41 96 480V32h320z"/>
+          <path d="M416 480L256 357.41 96 480V32h320z" fill="currentColor"/>
         </svg>
       </div>
     </div>

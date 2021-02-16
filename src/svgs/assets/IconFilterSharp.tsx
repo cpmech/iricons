@@ -35,7 +35,7 @@ export const IconFilterSharp: React.FC<IconFilterSharpProps> = ({ size = '24px',
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M16 120h480v48H16zm80 112h320v48H96zm96 112h128v48H192z"/>
+          <path d="M16 120h480v48H16zm80 112h320v48H96zm96 112h128v48H192z" fill="currentColor"/>
         </svg>
       </div>
     </div>

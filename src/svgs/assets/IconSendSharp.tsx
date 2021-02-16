@@ -35,7 +35,7 @@ export const IconSendSharp: React.FC<IconSendSharpProps> = ({ size = '24px', sty
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M16 464l480-208L16 48v160l320 48-320 48z"/>
+          <path d="M16 464l480-208L16 48v160l320 48-320 48z" fill="currentColor"/>
         </svg>
       </div>
     </div>

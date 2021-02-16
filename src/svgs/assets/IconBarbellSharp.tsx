@@ -35,7 +35,7 @@ export const IconBarbellSharp: React.FC<IconBarbellSharpProps> = ({ size = '24px
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M496 176h-58v-64h-76v122H150V112H74v64H16v160h58v64h76V278h212v122h76v-64h58V176z"/>
+          <path d="M496 176h-58v-64h-76v122H150V112H74v64H16v160h58v64h76V278h212v122h76v-64h58V176z" fill="currentColor"/>
         </svg>
       </div>
     </div>

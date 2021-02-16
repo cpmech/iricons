@@ -35,7 +35,7 @@ export const IconPlayBackSharp: React.FC<IconPlayBackSharpProps> = ({ size = '24
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M496 400L256 256l240-144v288zm-240 0L16 256l240-144v288z"/>
+          <path d="M496 400L256 256l240-144v288zm-240 0L16 256l240-144v288z" fill="currentColor"/>
         </svg>
       </div>
     </div>

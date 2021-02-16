@@ -35,7 +35,7 @@ export const IconSquareSharp: React.FC<IconSquareSharpProps> = ({ size = '24px',
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <path d="M48 48h416v416H48z"/>
+          <path d="M48 48h416v416H48z" fill="currentColor"/>
         </svg>
       </div>
     </div>
