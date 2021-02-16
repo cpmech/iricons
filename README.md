@@ -1,5 +1,7 @@
 # Ion React Icons in TypeScript
 
+See all icons here: https://cpmech.github.io/iricons/
+
 ## Installation
 
 ### Option A
@@ -23,6 +25,3 @@ export const MyComponent: React.FC = () => (
   </div>
 );
 ```
-
-## Icons
-
