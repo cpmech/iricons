@@ -6,7 +6,7 @@ See all icons here: https://cpmech.github.io/iricons/
 
 ### Option A
 
-Grab each Icon.tsx component individually and add it to your project.
+[Grab each icon](https://github.com/cpmech/iricons/tree/main/src/svgs/assets) individually and add it to your project. [The above link also helps the selection](https://cpmech.github.io/iricons/).0
 
 ### Option B
 
