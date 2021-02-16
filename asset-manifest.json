@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iricons/static/css/main.61fd721f.chunk.css",
-    "main.js": "/iricons/static/js/main.928f60c0.chunk.js",
-    "main.js.map": "/iricons/static/js/main.928f60c0.chunk.js.map",
+    "main.js": "/iricons/static/js/main.212507ec.chunk.js",
+    "main.js.map": "/iricons/static/js/main.212507ec.chunk.js.map",
     "runtime-main.js": "/iricons/static/js/runtime-main.25d1294d.js",
     "runtime-main.js.map": "/iricons/static/js/runtime-main.25d1294d.js.map",
     "static/js/2.d06a4d9b.chunk.js": "/iricons/static/js/2.d06a4d9b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.25d1294d.js",
     "static/js/2.d06a4d9b.chunk.js",
     "static/css/main.61fd721f.chunk.css",
-    "static/js/main.928f60c0.chunk.js"
+    "static/js/main.212507ec.chunk.js"
   ]
 }
