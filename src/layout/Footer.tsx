@@ -11,15 +11,10 @@ export const Footer: React.FC = () => (
       height: ${styles.dims.footer.height};
       color: ${styles.colors.white()};
       display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: center;
-      font-style: italic;
-      max-width: ${styles.dims.maxPageWidth};
-      padding: 20px 20px;
+      justify-content: center;
+      padding: 40px 20px;
     `}
   >
-    <h3>© 2021 Dorival Pedroso</h3>
     <RcLinkOrDiv
       href="https://github.com/cpmech/iricons"
       color={styles.colors.white()}
